@@ -19,4 +19,3 @@ fun main(args: Array<String>) {
     //saida de dados para o usuario
     println("A=$resultado \n")
 }
-© 2021 GitHub, Inc.
